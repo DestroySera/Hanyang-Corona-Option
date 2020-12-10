@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CORONA</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">지도</string>
+    <string name="title_option">설정</string>
+    <string name="option1">공지사항</string>
+    <string name="option2">알림 설정</string>
+    <string name="option3">버전</string>
+    <string name="pushalarm">푸시 알람 설정</string>
+</resources>
